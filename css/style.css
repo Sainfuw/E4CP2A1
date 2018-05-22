@@ -103,8 +103,3 @@ footer.footer {
 p.datos {
     font-size: 1rem;
 }
-@media (min-width: 768px) {
-    .datos {
-        font-size: 1rem;
-    }
-}
