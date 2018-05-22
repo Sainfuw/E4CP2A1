@@ -100,3 +100,11 @@ footer.footer {
     padding-top: 4rem;
     padding-bottom: 4rem;
 }
+p.datos {
+    font-size: 1rem;
+}
+@media (min-width: 768px) {
+    .datos {
+        font-size: 1rem;
+    }
+}
