@@ -60,6 +60,10 @@ header h1 {
     padding-top: 7rem;
     padding-bottom: 7rem;
 }
+.mini-air {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 .icon {
     height: 6rem;
 }
@@ -107,4 +111,14 @@ p.datos {
     p.datos {
         font-size: .9rem;
     }
+}
+.image-style {
+    margin: 15px;
+    border-radius: 50%;
+}
+.shadow {
+    text-shadow: 2px 2px black !important;
+}
+ul.postmeta {
+    text-decoration: none;
 }
